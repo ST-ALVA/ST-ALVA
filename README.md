@@ -1,4 +1,4 @@
-# Hi, I'm Stephan 👋
+# Hi, I'm Stephan 
 
 I’m a **Data Analyst with a strong business and marketing background**, focused on marketing analytics, experimentation, and data-driven decision-making.
 
@@ -8,7 +8,7 @@ That insight led me to deepen my skills in **programming, analytics, and applied
 
 ---
 
-## 🔍 What I do
+## What I do
 
 - Marketing analytics: **LTV, CAC, ROMI, cohort & retention analysis**
 - Experimentation & A/B testing: **hypothesis design, statistical validation, decision-making**
@@ -19,7 +19,7 @@ That insight led me to deepen my skills in **programming, analytics, and applied
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - **Python** (pandas, numpy, scipy, basic ML workflows)
 - **SQL** (analytical queries, joins, CTEs, aggregations)
@@ -31,7 +31,7 @@ That insight led me to deepen my skills in **programming, analytics, and applied
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 
 - **Marketing Cohort Analysis**  
   End-to-end cohort, LTV, CAC, and ROMI analysis to identify the most profitable acquisition channels and retention patterns, with clear budget allocation recommendations.
@@ -50,7 +50,7 @@ That insight led me to deepen my skills in **programming, analytics, and applied
 
 ---
 
-## 🎯 What I’m looking for
+## What I’m looking for
 
 I’m interested in **data analyst roles within tech and marketing-driven companies**, especially teams that value **experimentation, analytics, and AI-enabled growth**.
 
